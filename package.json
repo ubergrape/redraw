@@ -1,0 +1,19 @@
+{
+  "name": "redraw",
+  "version": "1.0.0",
+  "description": "Force a redraw on an element. This can sometimes be useful to force transitions to run instead of letting the browser optimize them out. Obviously, this should be a last-ditch measure.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ubergrape/redraw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubergrape/redraw/issues"
+  },
+  "homepage": "https://github.com/ubergrape/redraw"
+}
